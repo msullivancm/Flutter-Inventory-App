@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157188329247",
+    "project_id": "flinventary",
+    "storage_bucket": "flinventary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157188329247:android:7136da74c04e08a850aa2a",
+        "android_client_info": {
+          "package_name": "net.tibrasil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157188329247-mtd7b1jul8reiub55cr6nnqqtsbfavnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnONvKQVgQW_X9WNuX7tZbM0y5Z5bCWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157188329247-mtd7b1jul8reiub55cr6nnqqtsbfavnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
